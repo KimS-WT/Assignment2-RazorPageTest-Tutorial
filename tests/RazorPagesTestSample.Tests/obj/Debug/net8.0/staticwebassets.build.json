@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "Hash": "L1qWiVOQ7LejHBwUWkJRLwnBkH8aOdjopC97szgbBTc=",
+  "Source": "RazorPagesTestSample.Tests",
+  "BasePath": "_content/RazorPagesTestSample.Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\kimsu\\OneDrive - West Texas A and M University\\Babb CIDM 4390\\3.x\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+      "Version": 2,
+      "Source": "RazorPagesTestSample",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPagesTestSample\\wwwroot",
+      "Source": "RazorPagesTestSample",
+      "ContentRoot": "C:\\Users\\kimsu\\OneDrive - West Texas A and M University\\Babb CIDM 4390\\3.x\\src\\RazorPagesTestSample\\wwwroot\\",
+      "BasePath": "_content/RazorPagesTestSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kimsu\\OneDrive - West Texas A and M University\\Babb CIDM 4390\\3.x\\src\\RazorPagesTestSample\\wwwroot\\favicon.ico",
+      "SourceId": "RazorPagesTestSample",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\kimsu\\OneDrive - West Texas A and M University\\Babb CIDM 4390\\3.x\\src\\RazorPagesTestSample\\wwwroot\\",
+      "BasePath": "_content/RazorPagesTestSample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
